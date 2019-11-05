@@ -1,2 +1,2 @@
 # Trai-Game
-Dictionary plus Game using TRAI Data Structure.
+Dictionary, Autocomplete and Game using TRAI Data Structure.
