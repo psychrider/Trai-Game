@@ -1,2 +1,2 @@
-# Trai-Game
-Dictionary and Game using TRAI Data Structure.
+# Trie-Game
+Dictionary and Game using TRIE Data Structure.
